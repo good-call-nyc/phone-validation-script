@@ -1,0 +1,24 @@
+{
+  "name": "phone-validation-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "data-doge <eugene@enspiral.com> (http://fuckafucka.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/good-call-nyc/phone-validation-script.git"
+  },
+  "bugs": {
+    "url": "https://github.com/good-call-nyc/phone-validation-script/issues"
+  },
+  "homepage": "https://github.com/good-call-nyc/phone-validation-script#readme",
+  "description": "",
+  "dependencies": {
+    "delete": "^0.3.2",
+    "dotenv": "^2.0.0",
+    "progress": "^1.1.8"
+  }
+}
